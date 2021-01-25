@@ -1,0 +1,7 @@
+#dependencies
+/node_modules
+/coverage
+/build
+.env.production
+.env.development
+.env.test
